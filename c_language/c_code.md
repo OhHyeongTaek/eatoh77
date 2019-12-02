@@ -3,6 +3,7 @@
 #include <stdio.h>
 
 int main(void)
+
 {
 	char name[100];
 	char address[100];
