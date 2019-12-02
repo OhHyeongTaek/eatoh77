@@ -12,7 +12,7 @@ int main(void)
 	char address[100];
 	
 	
-	printf("이름을 입력하시오:");
+	printf("이름을 입력하세요:");
 	
 	gets(name);
 
